@@ -1,6 +1,6 @@
 # moonexc: the best roblox executor for windows (coming soon to mobile)
 
-welcome to **moonexc** — the level 7, 100% unc executor that's currently the best roblox executor for windows. it's fast, reliable, and is owned by one of the most popular script developers and exploiter. plus, it's coming to mobile soon so you can take your roblox scripting on the go.
+welcome to **moonexc** — the level 7, 100% unc executor that's currently the best roblox executor for windows. it's fast, reliable, and packed with features. plus, it's coming to mobile soon so you can take your roblox scripting on the go.
 
 ## features:
 
@@ -39,4 +39,3 @@ this project is licensed under the **Creative Commons Attribution-NonCommercial-
 you can share and distribute the code, but you cannot modify it, use it commercially, or resell it. credit must be given to the original author when using or distributing this code.
 
 more info: [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
