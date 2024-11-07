@@ -28,7 +28,7 @@ moonexc is the **best** executor out there for roblox, with a clean interface, f
 
 ## pepe's approval 🐸:
 
-![pepe](https://upload.wikimedia.org/wikipedia/commons/a/a4/Pepe_the_Frog_2016.png)
+- ![pepe](https://cdn.7tv.app/emote/01F6NET6G00009JYTB75QDKV1S/1x.webp)
 
 ## license:
 
