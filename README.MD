@@ -1,4 +1,4 @@
-# moonexc: the best roblox executor for windows (coming soon to mobile)
+# moonexc: the best roblox executor for windows (MOBILE SOON)
 
 welcome to **moonexc** — the level 7, 100% unc executor that's currently the best roblox executor for windows. it's fast, reliable, and packed with features. plus, it's coming to mobile soon so you can take your roblox scripting on the go.
 
