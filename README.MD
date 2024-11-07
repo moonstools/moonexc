@@ -11,11 +11,9 @@ welcome to **moonexc** — the level 7, 100% unc executor that's currently the b
 
 ## supported scripting languages:
 
-- **luau**  
-  ![Luau](https://upload.wikimedia.org/wikipedia/commons/2/2a/Roblox_Luau_logo.png)
+- ![Lua](https://img.shields.io/badge/Lua-black?logo=lua)
 
-- **lua**  
-  ![Lua](https://upload.wikimedia.org/wikipedia/commons/3/3a/Lua-Logo.svg)
+- ![Luau](https://img.shields.io/badge/Luau-black?logo=roblox)
 
 ## usage:
 
