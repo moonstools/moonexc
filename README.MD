@@ -18,7 +18,7 @@ welcome to **moonexc** — the level 7, 100% unc executor that's currently the b
 ## usage:
 
 1. download and install **moonexc**.
-2. launch the application and open your roblox game.
+2. launch the application's bootstrapper and open your roblox game.
 3. use the built-in coding ide to write, test, and execute your scripts.
 4. see the magic happen in real time.
 
